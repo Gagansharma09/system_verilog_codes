@@ -16,9 +16,9 @@ module tb;
     j=arr.pop_front();
     $display("arr:%0p",arr);
     $display("values of j:%0d",j);
-
+    j=arr.pop_back();
+    $display("arr:%0p",arr);
+    $display("values of j:%0d",j);
     $finish;
   end
 endmodule
-
-
