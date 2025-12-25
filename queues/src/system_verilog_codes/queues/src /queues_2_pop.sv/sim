@@ -23,7 +23,7 @@ done
 # KERNEL: Warning: You are using the Riviera-PRO EDU Edition. The performance of simulation is reduced.
 # KERNEL: Warning: Contact Aldec for available upgrade options - sales@aldec.com.
 # KERNEL: Kernel process initialization done.
-# Allocation: Simulator allocated 4710 kB (elbread=455 elab2=4116 kernel=138 sdf=0)
+# Allocation: Simulator allocated 4711 kB (elbread=455 elab2=4117 kernel=138 sdf=0)
 # KERNEL: ASDB file was created in location /home/runner/dataset.asdb
 # KERNEL: Initial arr = 1 2 3
 # KERNEL: After push_front(7) = 7 1 2 3
@@ -31,7 +31,9 @@ done
 # KERNEL: After insert(2,10) = 7 1 10 2 3 9
 # KERNEL: arr:1 10 2 3 9
 # KERNEL: values of j:7
-# RUNTIME: Info: RUNTIME_0068 testbench.sv (20): $finish called.
+# KERNEL: arr:1 10 2 3
+# KERNEL: values of j:9
+# RUNTIME: Info: RUNTIME_0068 testbench.sv (22): $finish called.
 # KERNEL: Time: 0 ns,  Iteration: 0,  Instance: /tb,  Process: @INITIAL#4_0@.
 # KERNEL: stopped at time: 0 ns
 # VSIM: Simulation has finished. There are no more test vectors to simulate.
