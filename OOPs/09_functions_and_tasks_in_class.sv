@@ -1,3 +1,4 @@
+//first code
 module tb;
   function bit [4:0] add(input bit [3:0]ain,bin);
      return ain+bin;
