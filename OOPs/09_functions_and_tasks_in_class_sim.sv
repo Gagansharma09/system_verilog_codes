@@ -1,3 +1,4 @@
+//sim of first code
 VSIMSA: Configuration file changed: `/home/runner/library.cfg'
 ALIB: Library "work" attached.
 work = /home/runner/work/work.lib
@@ -34,3 +35,4 @@ done
 # KERNEL: values of addition:6
 # KERNEL: Simulation has finished. There are no more test vectors to simulate.
 # VSIM: Simulation has finished.
+
